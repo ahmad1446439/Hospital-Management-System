@@ -29,19 +29,6 @@ It demonstrates the practical implementation of Data Structures and Algorithms (
 * Emergency Handling
 * Patient History Tracking
 
-## How to Run
-
-1. Compile the program:
-
-   ```
-   g++ main.cpp -o hospital
-   ```
-2. Run:
-
-   ```
-   ./hospital
-   ```
-
 ##  Project Structure
 
 * `main.cpp` → Main program logic
